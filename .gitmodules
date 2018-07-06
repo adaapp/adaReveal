@@ -1,3 +1,6 @@
 [submodule "plugin/reveald3"]
 	path = plugin/reveald3
 	url = https://github.com/gcalmettes/reveal.js-d3
+[submodule "plugin/tangle"]
+	path = plugin/tangle
+	url = https://github.com/worrydream/Tangle
