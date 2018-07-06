@@ -1,0 +1,3 @@
+[submodule "plugin/reveald3"]
+	path = plugin/reveald3
+	url = https://github.com/gcalmettes/reveal.js-d3
